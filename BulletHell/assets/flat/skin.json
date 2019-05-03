@@ -19,9 +19,11 @@
     semiTransparent: { r: 0, g: 0, b: 0, a: 0.6 },
     progressbarBg: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
     health: { r: 0.8, g: 0, b: 0, a: 1 },
-    healthBg: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
+    healthBg: { a: 0.22745098, b: 0.007843138, g: 0.0, r: 0.79607844 },
     shield: { a: 1.0, b: 0.98, g: 0.66, r: 0.15 },
-    shieldBg: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
+    shieldBg: { a: 0.28627452, b: 0.7529412, g: 0.50980395, r: 0.12941177 },
+    time: { a: 1.0, b: 0.0, g: 0.9137255, r: 0.9098039 },
+    timeBg: { a: 0.20784314, b: 0.0, g: 0.7411765, r: 0.78039217 },
 
     font: white
     fontOver: white
@@ -49,6 +51,8 @@
     health: { name: line-v, color: health },
     shieldDisabled: { name: line-v, color: shieldBg },
     shield: { name: line-v, color: shield },
+    timeDisabled: { name: line-v, color: timeBg },
+    time: { name: line-v, color: time },
     progressHorizontal: { name: line-v, color: progressbarBg },
     progressHorizontalKnob: { name: line-v, color: down },
     progressHorizontalDisabled: { name: line-v, color: disabled },
@@ -126,6 +130,8 @@
     health: { background: healthDisabled, knobBefore: health,
       disabledBackground: progressHorizontalDisabled, disabledKnobBefore: progressHorizontalKnobDisabled },
     shield: { background: shieldDisabled, knobBefore: shield,
+      disabledBackground: progressHorizontalDisabled, disabledKnobBefore: progressHorizontalKnobDisabled },
+    time: { background: timeDisabled, knobBefore: time,
       disabledBackground: progressHorizontalDisabled, disabledKnobBefore: progressHorizontalKnobDisabled }
   },
   com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {

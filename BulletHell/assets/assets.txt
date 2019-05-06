@@ -11,7 +11,9 @@ i:background/mountains04-512-x-256_007.png:7317:image/png
 i:background/mountains04-512-x-256_008.png:2883:image/png
 i:background/mountains04-512-x-256_009.png:731:image/png
 i:coin.png:876:image/png
-i:enemyship.png:1491:image/png
+i:enemyship.png:573:image/png
+i:enemyship2.png:711:image/png
+i:enemyship3.png:597:image/png
 a:explosion.ogg:40259:application/unknown
 b:explosion.pfx:4020:application/unknown
 i:explosion.png:99933:image/png
@@ -23,7 +25,7 @@ i:flat/skin.png:354:image/png
 a:gold.mp3:8313:application/unknown
 a:laserfire01.ogg:14889:application/unknown
 i:particle.png:1821:image/png
-i:player-ship.png:1545:image/png
+i:player-ship.png:642:image/png
 i:projectile-green.png:177:image/png
 i:projectile-red.png:174:image/png
 i:sparkle_4x4.png:1406:image/png

@@ -1,5 +1,15 @@
 d:assets:0:application/unknown
 d:background:0:application/unknown
+i:background/mountains03-512-x-256_000.png:3295:image/png
+i:background/mountains03-512-x-256_001.png:863:image/png
+i:background/mountains03-512-x-256_002.png:1065:image/png
+i:background/mountains03-512-x-256_003.png:1486:image/png
+i:background/mountains03-512-x-256_004.png:1519:image/png
+i:background/mountains03-512-x-256_005.png:1401:image/png
+i:background/mountains03-512-x-256_006.png:14506:image/png
+i:background/mountains03-512-x-256_007.png:20512:image/png
+i:background/mountains03-512-x-256_008.png:17427:image/png
+i:background/mountains03-512-x-256_009.png:897:image/png
 i:background/mountains04-512-x-256_000.png:463:image/png
 i:background/mountains04-512-x-256_001.png:476:image/png
 i:background/mountains04-512-x-256_002.png:464:image/png

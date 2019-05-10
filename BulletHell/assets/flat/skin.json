@@ -7,6 +7,7 @@
     white: { r: 1, g: 1, b: 1, a: 1 },
     gray: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
     black: { r: 0, g: 0, b: 0, a: 1 },
+    green: { hex: "#10e10cff" },
     
     up: { r: 0.1, g: 0.1, b: 0.1, a: 1 },
     over: { r: 0.3, g: 0.3, b: 0.3, a: 1 },
@@ -39,7 +40,7 @@
     buttonDisabled: { name: rect, color: disabled },
     buttonChecked: { name: rect, color: checked },
     buttonCheckedOver: { name: rect, color: checkedOver },
-    checkBoxOn: { name: check-on, color: up },
+    checkBoxOn: { name: check-on, color: green },
     checkBoxOff: { name: check, color: up },
     checkBoxOver: { name: check, color: over },
     checkBoxOnDisabled: { name: check-on, color: disabled },

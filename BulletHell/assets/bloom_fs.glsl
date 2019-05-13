@@ -8,10 +8,10 @@ uniform sampler2D u_texture;
 
 out vec4 pixel;
 
-uniform float glow_size = 0.6;
-uniform vec3 glow_colour = vec3(0, 1, 0);
-uniform float glow_intensity = 1.2;
-uniform float glow_threshold = .5;
+uniform float glow_size;
+uniform vec3 glow_colour;
+uniform float glow_intensity;
+uniform float glow_threshold;
 
 void main() {
     pixel = texture(u_texture, v_tex_coord);

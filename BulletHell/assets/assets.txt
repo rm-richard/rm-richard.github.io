@@ -3,7 +3,7 @@ d:bg:0:application/unknown
 i:bg/space_bg01.png:115814:image/png
 i:bg/space_bg02.png:231335:image/png
 i:bg/space_bg03.png:336224:image/png
-t:bloom_fs.glsl:1548:application/unknown
+t:bloom_fs.glsl:1515:application/unknown
 t:bloom_vs.glsl:263:application/unknown
 i:coin.png:876:image/png
 a:damaged.ogg:4338:application/unknown

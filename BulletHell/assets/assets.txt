@@ -17,7 +17,7 @@ i:explosion.png:99933:image/png
 a:fire.ogg:13854:application/unknown
 d:flat:0:application/unknown
 t:flat/skin.atlas:1435:application/unknown
-t:flat/skin.json:11292:application/unknown
+t:flat/skin.json:11289:application/unknown
 i:flat/skin.png:354:image/png
 a:gold.mp3:8313:application/unknown
 d:items:0:application/unknown
@@ -26,6 +26,7 @@ t:items/spritesheet.txt:185547:text/plain
 a:laserfire01.ogg:14889:application/unknown
 i:particle.png:1821:image/png
 i:player-ship.png:642:image/png
+i:projectile-green-big.png:201:image/png
 i:projectile-green.png:177:image/png
 i:projectile-red-circle.png:159:image/png
 i:projectile-red.png:174:image/png

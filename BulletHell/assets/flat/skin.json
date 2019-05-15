@@ -38,7 +38,7 @@
     buttonOver: { name: rect, color: over },
     buttonDown: { name: rect, color: down },
     buttonDisabled: { name: rect, color: disabled },
-    buttonChecked: { name: rect, color: checked },
+    buttonChecked: { name: rect, color: down },
     buttonCheckedOver: { name: rect, color: checkedOver },
     checkBoxOn: { name: check-on, color: green },
     checkBoxOff: { name: check, color: up },

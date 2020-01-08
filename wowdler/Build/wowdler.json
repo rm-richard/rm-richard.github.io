@@ -1,7 +1,7 @@
 {
 "companyName": "RichardIdleFactory",
 "productName": "wowdler-unity",
-"productVersion": "0.3.0-ALPHA",
+"productVersion": "0.4.0-ALPHA",
 "dataUrl": "wowdler.data.unityweb",
 "wasmCodeUrl": "wowdler.wasm.code.unityweb",
 "wasmFrameworkUrl": "wowdler.wasm.framework.unityweb",
